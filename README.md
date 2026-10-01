@@ -20,7 +20,7 @@ An interactive insurance analytics report built in Power BI to analyze premiums,
 - Power BI Service
 
 ## Dashboard Visuals
-![Dashboard](Dashboard/Overview.png)
+![Dashboard](Overview.png)
 
 ### KPI Cards
 - Total Claim Amount — Sum of ClaimAmount
